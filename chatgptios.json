@@ -1,0 +1,5 @@
+name: ios版chatgpt app 覆写
+desc: 走指定路线，避免warp路线影响
+
+rules:
+  - DOMAIN-SUFFIX,ios.chat.openai.com,🚀 手动切换
