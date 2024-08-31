@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,pub.3gppnetwork.org
 IP-CIDR,66.94.0.0/19
 IP-CIDR,208.54.0.0/16
+DOMAIN-SUFFIX,testipv6.cn
 DOMAIN-SUFFIX,cdn.responsys.net
 DOMAIN-SUFFIX,uscreditcardguide.com
 DOMAIN-SUFFIX,pt.18x.icu
