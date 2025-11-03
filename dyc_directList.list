@@ -1,22 +1,33 @@
+# wifi-calling服务
 DOMAIN-SUFFIX,pub.3gppnetwork.org
 IP-CIDR,66.94.0.0/19
 IP-CIDR,208.54.0.0/16
+
 DOMAIN-SUFFIX,testipv6.cn
-DOMAIN-SUFFIX,cdn.responsys.net
-DOMAIN-SUFFIX,uscreditcardguide.com
-DOMAIN-SUFFIX,pt.18x.icu
-DOMAIN-SUFFIX,immedia-semi.com
-DOMAIN-KEYWORD,plex.direct
-DOMAIN-KEYWORD,steampipe.steamcontent.com
-DOMAIN-SUFFIX,dl.steam.clngaa.com
-DOMAIN,steamcdn-a.akamaihd.net,
-DOMAIN-KEYWORD,epicgames-download
+#DOMAIN-SUFFIX,uscreditcardguide.com
+DOMAIN-SUFFIX,deya.ng
+
+
+
+# steam和epic直连下载
+#DOMAIN-KEYWORD,steampipe.steamcontent.com
+#DOMAIN-SUFFIX,clngaa.com #金山云cdn
+#DOMAIN-SUFFIX,eccdnx.com  # 白山云cdn
+#DOMAIN-SUFFIX,tnkjmec.com  # 华为云cdn
+#DOMAIN,steamcdn-a.akamaihd.net
+#DOMAIN-KEYWORD,epicgames-download
+
+# 远控组网自建媒体
 DOMAIN-SUFFIX,parsec.app
 DOMAIN-SUFFIX,zerotier.com
-DOMAIN-SUFFIX,piggo.me
+DOMAIN-KEYWORD,plex.direct
+DOMAIN-SUFFIX,immedia-semi.com #Blink Cam
+
+# PT网站
 DOMAIN-SUFFIX,totheglory.im
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,chddiy.xyz
 DOMAIN-SUFFIX,hdchina.org
 DOMAIN-SUFFIX,hdsky.me
 DOMAIN-SUFFIX,ourbits.club
@@ -34,5 +45,5 @@ DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,azusa.wiki
 DOMAIN-SUFFIX,leaves.red
 DOMAIN-SUFFIX,piggo.me
-DOMAIN-SUFFIX,immedia-semi.com
-DOMAIN-SUFFIX,deya.ng
+
+
