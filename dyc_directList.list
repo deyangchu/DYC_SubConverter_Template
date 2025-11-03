@@ -11,9 +11,9 @@ DOMAIN-SUFFIX,deya.ng
 
 # steam和epic直连下载
 #DOMAIN-KEYWORD,steampipe.steamcontent.com
-#DOMAIN-SUFFIX,clngaa.com #金山云cdn
-#DOMAIN-SUFFIX,eccdnx.com  # 白山云cdn
-#DOMAIN-SUFFIX,tnkjmec.com  # 华为云cdn
+#DOMAIN-SUFFIX,clngaa.com
+#DOMAIN-SUFFIX,eccdnx.com
+#DOMAIN-SUFFIX,tnkjmec.com
 #DOMAIN,steamcdn-a.akamaihd.net
 #DOMAIN-KEYWORD,epicgames-download
 
@@ -21,7 +21,7 @@ DOMAIN-SUFFIX,deya.ng
 DOMAIN-SUFFIX,parsec.app
 DOMAIN-SUFFIX,zerotier.com
 DOMAIN-KEYWORD,plex.direct
-DOMAIN-SUFFIX,immedia-semi.com #Blink Cam
+DOMAIN-SUFFIX,immedia-semi.com
 
 # PT网站
 DOMAIN-SUFFIX,totheglory.im
