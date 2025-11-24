@@ -5,3 +5,5 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
+DOMAIN,play.google.com
+DOMAIN-SUFFIX,clients6.google.com
